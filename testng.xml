@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Default Suite">
+  <test name="TestAutomation">
+    <classes>
+      <class name="com.autoframework.driver.ActionTest"/>
+      <class name="com.autoframework.driver.AlertOperate"/>
+    </classes>
+  </test> <!-- TestAutomation -->
+</suite> <!-- Default Suite -->
